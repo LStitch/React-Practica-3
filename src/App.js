@@ -93,7 +93,7 @@ class App extends Component {
   }
 
   render(){
-    
+    var arregloSort= this.state.carrito.sort((e,d) => e.codigo-d.codigo);
     return (
       <div className="App">
         <Header/>
@@ -105,7 +105,7 @@ class App extends Component {
           />
 
           <Lista
-            carrito={this.state.carrito}
+            carrito={arregloSort}
             eliminar={this.eliminar}
             total={this.state.total}
             eliminarCarrito={this.eliminarCarrito}
