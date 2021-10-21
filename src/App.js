@@ -17,7 +17,7 @@ class App extends Component {
     {codigo:2,descripcion:"DRAGON BALL FighterZ", precio:1100, url:'https://www.gamersrd.com/wp-content/uploads/2018/01/Dragon-Ball-FighterZ-review-0-GamersRD.png'},
     {codigo:3,descripcion:"Hollow Knight", precio:149, url:'https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg?t=1625363925'},
     {codigo:4,descripcion:"Monster Hunter: World", precio:303, url:'https://cdn-ext.fanatical.com/production/product/1280x720/7f6e4bbc-69a4-4910-a424-8b4f14100c12.jpeg'},
-    {codigo:5,descripcion:"Assassin's Creed Odyssey", precio:1199, url:'https://lh3.googleusercontent.com/proxy/PhaXX060oV0ymOdUtf25HqZVpr0CBmONwKf3LjN5K7G6O14hZHVMGf_dELUX3twnu6gQlrCp8ALntVwCR8XrNjgCnN2KzdkrYOCatC5eDXj8w81nA93uIQ4'},
+    {codigo:5,descripcion:"Assassin's Creed Odyssey", precio:1199, url:'https://live.mrf.io/statics/i/ps/www.muycomputer.com/wp-content/uploads/2018/09/Assassins-Creed-Odyssey.jpg?width=1200&enable=upscale'},
     {codigo:6,descripcion:"Crash Bandicoot N. Sane Trilogy", precio:999, url:'https://www.comunidadxbox.com/wp-content/uploads/Crash-Bandicoot-N.-Sane-Trilogy-Comunidad-Xbox.jpg'},
     ],
     cantidad:1,
