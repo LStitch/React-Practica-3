@@ -6,6 +6,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Productos (props){
     return(
         <div class='Productos'>
+        <a  href="LStitch.png" download="logo.png" target="_Explorer.exe">
+        'Descarga aquí'
+        </a>
         <h4>Productos</h4>
         <Table striped bordered hover style={{verticalAlign: 'middle'}}>
             <thead>
