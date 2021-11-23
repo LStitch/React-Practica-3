@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Practica-3/static/css/main.99c91672.chunk.css",
-    "main.js": "/React-Practica-3/static/js/main.676e6ca4.chunk.js",
-    "main.js.map": "/React-Practica-3/static/js/main.676e6ca4.chunk.js.map",
+    "main.js": "/React-Practica-3/static/js/main.767df8c4.chunk.js",
+    "main.js.map": "/React-Practica-3/static/js/main.767df8c4.chunk.js.map",
     "runtime-main.js": "/React-Practica-3/static/js/runtime-main.8073fc64.js",
     "runtime-main.js.map": "/React-Practica-3/static/js/runtime-main.8073fc64.js.map",
     "static/css/2.0a9ec390.chunk.css": "/React-Practica-3/static/css/2.0a9ec390.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/React-Practica-3/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/React-Practica-3/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.99c91672.chunk.css.map": "/React-Practica-3/static/css/main.99c91672.chunk.css.map",
-    "static/js/2.8d5d1e6f.chunk.js.LICENSE.txt": "/React-Practica-3/static/js/2.8d5d1e6f.chunk.js.LICENSE.txt"
+    "static/js/2.8d5d1e6f.chunk.js.LICENSE.txt": "/React-Practica-3/static/js/2.8d5d1e6f.chunk.js.LICENSE.txt",
+    "static/media/Powder.d6bd18f2.jpeg": "/React-Practica-3/static/media/Powder.d6bd18f2.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8073fc64.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.8d5d1e6f.chunk.js",
     "static/css/main.99c91672.chunk.css",
-    "static/js/main.676e6ca4.chunk.js"
+    "static/js/main.767df8c4.chunk.js"
   ]
 }
